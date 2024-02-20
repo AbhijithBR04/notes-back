@@ -1,0 +1,5 @@
+username: root,
+password:Password123#@!,
+database: notesapp,
+host: '127.0.0.1',
+dialect: 'mysql'
